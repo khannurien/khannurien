@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="2560" height="1384" alt="freeze" src="https://github.com/user-attachments/assets/2aaf41a2-2250-41b2-b17e-bd5e80e044ae" />
 
 <!--
 **khannurien/khannurien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
